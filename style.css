@@ -3,13 +3,9 @@
 	padding-top: 20%;
 	padding-bottom: 10%;
 	color: #fff;
+	font-size: 50;
 }
 
-.box {
-	background-color:rgba(0,0,0,0,4);
-	padding: 30px;
-	border: 1px solid #efefef;
-}
 body {
 	background: url(Black_olives.jpg) no-repeat center center;
 }
